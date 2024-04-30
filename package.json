@@ -2,6 +2,7 @@
   "name": "amoled-saver-pro",
   "displayName": "AMOLED Saver Pro",
   "description": "AMOLED Energy Saver Theme",
+  "icon": "icon.png",
   "version": "0.1.0",
   "publisher": "boterop",
   "engines": {
