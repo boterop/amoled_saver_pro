@@ -2,7 +2,7 @@
   "name": "amoled-saver-pro",
   "displayName": "AMOLED Saver Pro",
   "description": "AMOLED Energy Saver Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.88.0"
   },
