@@ -8,12 +8,12 @@ This theme was copied from https://github.com/Binaryify/OneDark-Pro/blob/master/
 <tr>
 <td>
 
-![alt text](screenshots/theme.png)
+![THEME]
 
 </td>
 <td>
 
-![alt text](screenshots/workspace.png)
+![WORKSPACE]
 
 </td>
 </tr>
@@ -23,15 +23,20 @@ This theme was copied from https://github.com/Binaryify/OneDark-Pro/blob/master/
 <tr>
 <td>
 
-![alt text](screenshots/theme.png)
+![MAPS]
 
 </td>
 <td>
 
-![alt text](screenshots/json.png)
+![JSON]
 
 </td>
 </tr>
 </table>
 
 **Enjoy!**
+
+[THEME]: https://github.com/boterop/amoled_saver_pro/blob/main/screenshots/theme.png?raw=true
+[WORKSPACE]: https://github.com/boterop/amoled_saver_pro/blob/main/screenshots/workspace.png?raw=true
+[MAPS]: https://github.com/boterop/amoled_saver_pro/blob/main/screenshots/maps.png?raw=true
+[JSON]: https://github.com/boterop/amoled_saver_pro/blob/main/screenshots/json.png?raw=true
