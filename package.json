@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boterop/amoled_saver_pro"
+  },
   "contributes": {
     "themes": [
       {
