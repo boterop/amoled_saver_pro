@@ -1,16 +1,37 @@
 # amoled-saver-pro README
 
-## Working with Markdown
+This theme was copied from https://github.com/Binaryify/OneDark-Pro/blob/master/themes/OneDark-Pro-darker.json which is the theme I like, I just modified the background to be even darker (#000000)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## How does it looks like?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<table>
+<tr>
+<td>
 
-## For more information
+![alt text](screenshots/theme.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+</td>
+<td>
+
+![alt text](screenshots/workspace.png)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+![alt text](screenshots/theme.png)
+
+</td>
+<td>
+
+![alt text](screenshots/json.png)
+
+</td>
+</tr>
+</table>
 
 **Enjoy!**
