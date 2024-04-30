@@ -3,7 +3,7 @@
   "displayName": "AMOLED Saver Pro",
   "description": "AMOLED Energy Saver Theme",
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "boterop",
   "engines": {
     "vscode": "^1.88.0"
