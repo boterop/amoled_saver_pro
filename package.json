@@ -1,0 +1,21 @@
+{
+  "name": "amoled-saver-pro",
+  "displayName": "amoled_saver_pro",
+  "description": "AMOLED Energy Saver Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AMOLED Saver Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AMOLED Saver Pro-color-theme.json"
+      }
+    ]
+  }
+}
