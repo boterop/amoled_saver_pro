@@ -1,14 +1,13 @@
 name: Deploy new version
 
 on:
-  pull_request:
-    branches:
-      - main
-    types: closed
+  workflow_run:
+    workflows: ["Release new version"]
+    types:
+      - completed
 
 jobs:
   release:
-    if: ${{ github.event.pull_request.merged }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
