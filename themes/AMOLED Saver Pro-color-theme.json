@@ -2085,7 +2085,7 @@
     "terminal.background": "#000000",
     "terminal.border": "#3e4452",
     "terminal.foreground": "#abb2bf",
-    "terminal.selectionBackground": "#000000",
+    "terminal.selectionBackground": "#61afef",
     "textBlockQuote.background": "#2e3440",
     "textBlockQuote.border": "#4b5362",
     "textLink.foreground": "#61afef",
