@@ -1,6 +1,6 @@
 # amoled-saver-pro README
 
-This theme is based on https://github.com/Binaryify/OneDark-Pro/blob/master/themes/OneDark-Pro-darker.json modifying the background to be even darker (#000000)
+This theme is based on [OneDark Pro Darker](https://github.com/Binaryify/OneDark-Pro/blob/master/themes/OneDark-Pro-darker.json) modifying the background to be even darker (#000000)
 
 ## How does it looks like?
 
